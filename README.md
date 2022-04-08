@@ -1,9 +1,20 @@
-### Hi there! I'm Matheus 👋
+## Hi there! I'm Matheus 👋
 
 - 🔥 I’m currently studying in Driven Education to become a full-stack developer.
 - 🎓 Graduate in Mechanical Engineering.
 - 🌱 I’m currently learning React js.
 
+---
+
+### 🛠️ Technologies and Tools
+<div style="display: inline_block"><br>
+  <img align="center" alt="vhs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vhTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="vhjs"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vhjs"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="vhfigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="vhfigma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+</div>
 <!--
 **matheusfacciolla/matheusfacciolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
