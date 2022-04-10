@@ -1,6 +1,6 @@
-### Hi there! I'm Matheus 👋
+### Hi there! I'm Matheus <img height="30" width="40" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" />
 
-- 🔥 I’m currently studying in Driven Education to become a full-stack developer.
+- 🔥 I’m currently studying in Driven Education bootcamp to become a full-stack developer.
 - 🎓 Graduate in Mechanical Engineering.
 - 🌱 I’m currently learning React js.
 
@@ -20,7 +20,7 @@
 
 ### 📊 That´s my GitHub stats!
 <div style="display: inline_block"><br>
-  <img align="left" alt="mt" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfacciolla&layout=compact" />
+  <img align="left" alt="mt" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfacciolla&layout=compact" />
 </div>
 <!--
 
