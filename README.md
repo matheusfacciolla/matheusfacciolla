@@ -20,7 +20,7 @@
 
 ### 📊 That´s my GitHub stats!
 <div style="display: inline_block"><br>
-  <img align="left" alt="mt" width="310" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfacciolla" />
+  <img align="left" alt="mt" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfacciolla&layout=compact" />
 </div>
 <!--
 
