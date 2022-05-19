@@ -2,7 +2,7 @@
 
 - 🔥 I’m currently studying in Driven Education bootcamp to become a full-stack developer.
 - 🎓 Graduate in Mechanical Engineering.
-- 🌱 I’m currently learning Nodejs and MongoDB.
+- 🌱 I’m currently learning Nodejs.
 
 ---
 
@@ -14,6 +14,7 @@
   <img align="center" alt="mt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="mt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="mt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt="mt" height="60" width="60" src="https://user-images.githubusercontent.com/98189571/169192811-07e7fd28-9297-4b72-916d-0b34cf4c9480.svg" />
 </div>
 
 ---
