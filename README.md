@@ -21,7 +21,7 @@
 
 ### 📊 That´s my GitHub stats!
 <div style="display: inline_block"><br>
-  <img align="left" alt="mt" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfacciolla&layout=compact" />
+  <img align="left" alt="mt" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfacciolla&layout=compact&theme=tokyonight" />
 </div>
 <!--
 
