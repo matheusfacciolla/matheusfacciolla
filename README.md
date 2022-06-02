@@ -2,7 +2,7 @@
 
 - 🔥 I’m currently studying in Driven Education bootcamp to become a full-stack developer.
 - 🎓 Graduate in Mechanical Engineering.
-- 🌱 I’m currently learning PostgreSQL       
+- 🌱 I’m currently learning PostgreSQL <img align="center" alt="mt" height="32" width="32" src="https://user-images.githubusercontent.com/98189571/171563810-3311b86e-626a-4bf9-aa96-3ffbdc0a9815.png" />      
 
 ---
 
@@ -14,7 +14,7 @@
   <img align="center" alt="mt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="mt" height="60" width="60" src="https://user-images.githubusercontent.com/98189571/169192811-07e7fd28-9297-4b72-916d-0b34cf4c9480.svg" />
     <img align="center" alt="mt" height="48" width="48" src="https://user-images.githubusercontent.com/98189571/171290439-9ec9fc37-de1d-476a-833b-747d10dd8b39.png" />
-
+  
 ---
 
 ### 📊 That´s my GitHub stats!
