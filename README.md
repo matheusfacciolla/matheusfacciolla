@@ -2,7 +2,7 @@
 
 - 🔥 I’m currently studying in Driven Education bootcamp to become a full-stack developer.
 - 🎓 Graduate in Mechanical Engineering.
-- 🌱 I’m currently learning PostgreSQL.     
+- 🌱 I’m currently learning TypeScript.     
 
 ---
 
