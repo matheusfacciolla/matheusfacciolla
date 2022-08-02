@@ -11,6 +11,7 @@
   <img align="center" alt="mt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mt"height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="mt" height="52.5" width="52.5" src="https://user-images.githubusercontent.com/98189571/182470845-867b9378-bb7f-48cf-b6f9-627c05650d51.svg" />
   <img align="center" alt="mt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="mt" height="60" width="60" src="https://user-images.githubusercontent.com/98189571/169192811-07e7fd28-9297-4b72-916d-0b34cf4c9480.svg" />
     <img align="center" alt="mt" height="48" width="48" src="https://user-images.githubusercontent.com/98189571/171290439-9ec9fc37-de1d-476a-833b-747d10dd8b39.png" />
