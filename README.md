@@ -8,14 +8,15 @@
 
 ### 🛠️ Technologies and Tools
 <div style="display: inline_block">
-  <img align="center" alt="mt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mt"height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mt" height="52.5" width="52.5" src="https://user-images.githubusercontent.com/98189571/182470845-867b9378-bb7f-48cf-b6f9-627c05650d51.svg" />
-  <img align="center" alt="mt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="mt" height="60" width="60" src="https://user-images.githubusercontent.com/98189571/169192811-07e7fd28-9297-4b72-916d-0b34cf4c9480.svg" />
-    <img align="center" alt="mt" height="48" width="48" src="https://user-images.githubusercontent.com/98189571/171290439-9ec9fc37-de1d-476a-833b-747d10dd8b39.png" />
-  <img align="center" alt="mt" height="40" width="40" src="https://user-images.githubusercontent.com/98189571/171563810-3311b86e-626a-4bf9-aa96-3ffbdc0a9815.png" /> 
+  <img align="center" alt="html" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="typescript" height="52.5" width="52.5" src="https://user-images.githubusercontent.com/98189571/182470845-867b9378-bb7f-48cf-b6f9-627c05650d51.svg" />
+  <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="nodejs" height="60" width="60" src="https://user-images.githubusercontent.com/98189571/169192811-07e7fd28-9297-4b72-916d-0b34cf4c9480.svg" />
+    <img align="center" alt="mongodb" height="48" width="48" src="https://user-images.githubusercontent.com/98189571/171290439-9ec9fc37-de1d-476a-833b-747d10dd8b39.png" />
+  <img align="center" alt="postgresql" height="40" width="40" src="https://user-images.githubusercontent.com/98189571/171563810-3311b86e-626a-4bf9-aa96-3ffbdc0a9815.png" /> 
+  <img align="center" alt="docker" src="https://user-images.githubusercontent.com/98189571/186280713-9afe87df-2eb6-4b3c-8adc-1d0aa6543966.svg" />
   
 ---
 
