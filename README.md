@@ -56,7 +56,8 @@
 
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/matheustassifacciolla/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img align="center" display="flex" alt="gmail" src="https://img.shields.io/badge/Gmail: matheustassifacciolla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href=mailto:matheustassifacciolla@gmail.com><img align="center" display="flex" alt="gmail" src="https://img.shields.io/badge/Gmail: matheustassifacciolla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </p>
 </div>
 
