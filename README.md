@@ -3,7 +3,7 @@
 <div style="display: inline_block">
 <li>🔥 I’m currently studying in Driven Education bootcamp to become a full-stack developer.</li>
 <li>🎓 Graduate in Mechanical Engineering.</li>
-<li>🌱 I’m currently learning Docker.</li>
+<li>🌱 I’m currently learning Java.</li>
 </div>
 
 ---
