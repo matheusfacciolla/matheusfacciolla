@@ -1,9 +1,9 @@
 ### Hi there! I'm Matheus <img height="30" width="40" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" />
 
 <div style="display: inline_block">
-<li>🔥 I’m currently studying in Driven Education bootcamp to become a full-stack developer.</li>
-<li>🎓 Graduate in Mechanical Engineering.</li>
-<li>🌱 I’m currently learning Java.</li>
+<li>🔥 Developer Full-Stack at RedeFrete.</li>
+<li>🎓 Graduate in Mechanical Engineering and Driven Education bootcamp.</li>
+<li>🌱 I’m currently working with TypeScript, Next.js e Node.js.</li>
 </div>
 
 ---
@@ -21,7 +21,9 @@
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="react" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img align="center" alt="styled-component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+   <img align="center" alt="vercel" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
