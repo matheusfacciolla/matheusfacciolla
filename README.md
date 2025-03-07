@@ -1,7 +1,7 @@
 ### Hi there! I'm Matheus <img height="30" width="40" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" />
 
 <div style="display: inline_block">
-<li>🔥 Developer Full-Stack at RedeFrete.</li>
+<li>🔥 Developer Full-Stack</li>
 <li>🎓 Graduate in Mechanical Engineering and Driven Education bootcamp.</li>
 <li>🌱 I’m currently working with TypeScript, Next.js, Tailwind, Node.js, Express, Prisma e MySql.</li>
 </div>
